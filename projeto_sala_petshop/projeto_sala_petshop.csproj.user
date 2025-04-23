@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Adicionarprodutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adocao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adoteagora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Alterarsenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Banhotosa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bantosa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buscarprodutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastrodepets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadusuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consulage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consultavet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gerenciar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Histagendamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrousuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Servicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Treinamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
